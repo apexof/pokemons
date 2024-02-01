@@ -7,7 +7,7 @@
     "height": 28.0,
     "slug": "bulbasaur",
     "name": "Bulbasaur",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
     "id": 1,
     "type": ["grass", "poison"]
   },
@@ -19,7 +19,7 @@
     "height": 39.0,
     "slug": "ivysaur",
     "name": "Ivysaur",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
     "id": 2,
     "type": ["grass", "poison"]
   },
@@ -31,7 +31,7 @@
     "height": 945.0,
     "slug": "venusaur",
     "name": "Venusaur",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
     "id": 3,
     "type": ["grass", "poison"]
   },
@@ -43,7 +43,7 @@
     "height": 94.0,
     "slug": "venusaur",
     "name": "Venusaur",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
     "id": 3,
     "type": ["grass", "poison"]
   },
@@ -55,7 +55,7 @@
     "height": 79.0,
     "slug": "venusaur",
     "name": "Venusaur",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
     "id": 3,
     "type": ["grass", "poison"]
   },
@@ -67,7 +67,7 @@
     "height": 24.0,
     "slug": "charmander",
     "name": "Charmander",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
     "id": 4,
     "type": ["fire"]
   },
@@ -79,7 +79,7 @@
     "height": 43.0,
     "slug": "charmeleon",
     "name": "Charmeleon",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
     "id": 5,
     "type": ["fire"]
   },
@@ -91,7 +91,7 @@
     "height": 1102.0,
     "slug": "charizard",
     "name": "Charizard",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "id": 6,
     "type": ["fire", "flying"]
   },
@@ -103,7 +103,7 @@
     "height": 67.0,
     "slug": "charizard",
     "name": "Charizard",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "id": 6,
     "type": ["fire", "flying"]
   },
@@ -115,7 +115,7 @@
     "height": 67.0,
     "slug": "charizard",
     "name": "Charizard",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "id": 6,
     "type": ["fire", "dragon"]
   },
@@ -127,7 +127,7 @@
     "height": 67.0,
     "slug": "charizard",
     "name": "Charizard",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "id": 6,
     "type": ["fire", "flying"]
   },
@@ -139,7 +139,7 @@
     "height": 20.0,
     "slug": "squirtle",
     "name": "Squirtle",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
     "id": 7,
     "type": ["water"]
   },
@@ -151,7 +151,7 @@
     "height": 39.0,
     "slug": "wartortle",
     "name": "Wartortle",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
     "id": 8,
     "type": ["water"]
   },
@@ -163,7 +163,7 @@
     "height": 984.0,
     "slug": "blastoise",
     "name": "Blastoise",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
     "id": 9,
     "type": ["water"]
   },
@@ -175,7 +175,7 @@
     "height": 63.0,
     "slug": "blastoise",
     "name": "Blastoise",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
     "id": 9,
     "type": ["water"]
   },
@@ -187,7 +187,7 @@
     "height": 63.0,
     "slug": "blastoise",
     "name": "Blastoise",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
     "id": 9,
     "type": ["water"]
   },
@@ -199,7 +199,7 @@
     "height": 12.0,
     "slug": "caterpie",
     "name": "Caterpie",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
     "id": 10,
     "type": ["bug"]
   },
@@ -211,7 +211,7 @@
     "height": 28.0,
     "slug": "metapod",
     "name": "Metapod",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
     "id": 11,
     "type": ["bug"]
   },
@@ -223,7 +223,7 @@
     "height": 669.0,
     "slug": "butterfree",
     "name": "Butterfree",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
     "id": 12,
     "type": ["bug", "flying"]
   },
@@ -235,7 +235,7 @@
     "height": 43.0,
     "slug": "butterfree",
     "name": "Butterfree",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
     "id": 12,
     "type": ["bug", "flying"]
   },
@@ -247,7 +247,7 @@
     "height": 12.0,
     "slug": "weedle",
     "name": "Weedle",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
     "id": 13,
     "type": ["bug", "poison"]
   },
@@ -259,7 +259,7 @@
     "height": 24.0,
     "slug": "kakuna",
     "name": "Kakuna",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
     "id": 14,
     "type": ["bug", "poison"]
   },
@@ -271,7 +271,7 @@
     "height": 55.0,
     "slug": "beedrill",
     "name": "Beedrill",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
     "id": 15,
     "type": ["bug", "poison"]
   },
@@ -283,7 +283,7 @@
     "height": 39.0,
     "slug": "beedrill",
     "name": "Beedrill",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
     "id": 15,
     "type": ["bug", "poison"]
   },
@@ -295,7 +295,7 @@
     "height": 12.0,
     "slug": "pidgey",
     "name": "Pidgey",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
     "id": 16,
     "type": ["normal", "flying"]
   },
@@ -307,7 +307,7 @@
     "height": 43.0,
     "slug": "pidgeotto",
     "name": "Pidgeotto",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
     "id": 17,
     "type": ["normal", "flying"]
   },
@@ -319,7 +319,7 @@
     "height": 87.0,
     "slug": "pidgeot",
     "name": "Pidgeot",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
     "id": 18,
     "type": ["normal", "flying"]
   },
@@ -331,7 +331,7 @@
     "height": 59.0,
     "slug": "pidgeot",
     "name": "Pidgeot",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
     "id": 18,
     "type": ["normal", "flying"]
   },
@@ -343,7 +343,7 @@
     "height": 12.0,
     "slug": "rattata",
     "name": "Rattata",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
     "id": 19,
     "type": ["dark", "normal"]
   },
@@ -355,7 +355,7 @@
     "height": 12.0,
     "slug": "rattata",
     "name": "Rattata",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
     "id": 19,
     "type": ["normal"]
   },
@@ -367,7 +367,7 @@
     "height": 28.0,
     "slug": "raticate",
     "name": "Raticate",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
     "id": 20,
     "type": ["dark", "normal"]
   },
@@ -379,7 +379,7 @@
     "height": 28.0,
     "slug": "raticate",
     "name": "Raticate",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
     "id": 20,
     "type": ["normal"]
   },
@@ -391,7 +391,7 @@
     "height": 12.0,
     "slug": "spearow",
     "name": "Spearow",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
     "id": 21,
     "type": ["normal", "flying"]
   },
@@ -403,7 +403,7 @@
     "height": 47.0,
     "slug": "fearow",
     "name": "Fearow",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
     "id": 22,
     "type": ["normal", "flying"]
   },
@@ -415,7 +415,7 @@
     "height": 79.0,
     "slug": "ekans",
     "name": "Ekans",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
     "id": 23,
     "type": ["poison"]
   },
@@ -427,7 +427,7 @@
     "height": 138.0,
     "slug": "arbok",
     "name": "Arbok",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
     "id": 24,
     "type": ["poison"]
   },
@@ -439,7 +439,7 @@
     "height": 827.0,
     "slug": "pikachu",
     "name": "Pikachu",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
     "id": 25,
     "type": ["electric"]
   },
@@ -451,7 +451,7 @@
     "height": 16.0,
     "slug": "pikachu",
     "name": "Pikachu",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
     "id": 25,
     "type": ["electric"]
   },
@@ -463,7 +463,7 @@
     "height": 28.0,
     "slug": "raichu",
     "name": "Raichu",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
     "id": 26,
     "type": ["electric", "psychic"]
   },
@@ -475,7 +475,7 @@
     "height": 31.0,
     "slug": "raichu",
     "name": "Raichu",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
     "id": 26,
     "type": ["electric"]
   },
@@ -487,7 +487,7 @@
     "height": 28.0,
     "slug": "sandshrew",
     "name": "Sandshrew",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
     "id": 27,
     "type": ["ice", "steel"]
   },
@@ -499,7 +499,7 @@
     "height": 24.0,
     "slug": "sandshrew",
     "name": "Sandshrew",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
     "id": 27,
     "type": ["ground"]
   },
@@ -511,7 +511,7 @@
     "height": 47.0,
     "slug": "sandslash",
     "name": "Sandslash",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
     "id": 28,
     "type": ["ice", "steel"]
   },
@@ -523,7 +523,7 @@
     "height": 39.0,
     "slug": "sandslash",
     "name": "Sandslash",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
     "id": 28,
     "type": ["ground"]
   },
@@ -535,7 +535,7 @@
     "height": 16.0,
     "slug": "nidoran-female",
     "name": "Nidoran♀",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
     "id": 29,
     "type": ["poison"]
   },
@@ -547,7 +547,7 @@
     "height": 31.0,
     "slug": "nidorina",
     "name": "Nidorina",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
     "id": 30,
     "type": ["poison"]
   },
@@ -559,7 +559,7 @@
     "height": 51.0,
     "slug": "nidoqueen",
     "name": "Nidoqueen",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
     "id": 31,
     "type": ["poison", "ground"]
   },
@@ -571,7 +571,7 @@
     "height": 20.0,
     "slug": "nidoran-male",
     "name": "Nidoran♂",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
     "id": 32,
     "type": ["poison"]
   },
@@ -583,7 +583,7 @@
     "height": 35.0,
     "slug": "nidorino",
     "name": "Nidorino",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
     "id": 33,
     "type": ["poison"]
   },
@@ -595,7 +595,7 @@
     "height": 55.0,
     "slug": "nidoking",
     "name": "Nidoking",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
     "id": 34,
     "type": ["poison", "ground"]
   },
@@ -607,7 +607,7 @@
     "height": 24.0,
     "slug": "clefairy",
     "name": "Clefairy",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
     "id": 35,
     "type": ["fairy"]
   },
@@ -619,7 +619,7 @@
     "height": 51.0,
     "slug": "clefable",
     "name": "Clefable",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
     "id": 36,
     "type": ["fairy"]
   },
@@ -631,7 +631,7 @@
     "height": 24.0,
     "slug": "vulpix",
     "name": "Vulpix",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
     "id": 37,
     "type": ["ice"]
   },
@@ -643,7 +643,7 @@
     "height": 24.0,
     "slug": "vulpix",
     "name": "Vulpix",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
     "id": 37,
     "type": ["fire"]
   },
@@ -655,7 +655,7 @@
     "height": 43.0,
     "slug": "ninetales",
     "name": "Ninetales",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
     "id": 38,
     "type": ["ice", "fairy"]
   },
@@ -667,7 +667,7 @@
     "height": 43.0,
     "slug": "ninetales",
     "name": "Ninetales",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
     "id": 38,
     "type": ["fire"]
   },
@@ -679,7 +679,7 @@
     "height": 20.0,
     "slug": "jigglypuff",
     "name": "Jigglypuff",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
     "id": 39,
     "type": ["normal", "fairy"]
   },
@@ -691,7 +691,7 @@
     "height": 39.0,
     "slug": "wigglytuff",
     "name": "Wigglytuff",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
     "id": 40,
     "type": ["normal", "fairy"]
   },
@@ -703,7 +703,7 @@
     "height": 31.0,
     "slug": "zubat",
     "name": "Zubat",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
     "id": 41,
     "type": ["poison", "flying"]
   },
@@ -715,7 +715,7 @@
     "height": 63.0,
     "slug": "golbat",
     "name": "Golbat",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
     "id": 42,
     "type": ["poison", "flying"]
   },
@@ -727,7 +727,7 @@
     "height": 20.0,
     "slug": "oddish",
     "name": "Oddish",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
     "id": 43,
     "type": ["grass", "poison"]
   },
@@ -739,7 +739,7 @@
     "height": 31.0,
     "slug": "gloom",
     "name": "Gloom",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
     "id": 44,
     "type": ["grass", "poison"]
   },
@@ -751,7 +751,7 @@
     "height": 47.0,
     "slug": "vileplume",
     "name": "Vileplume",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
     "id": 45,
     "type": ["grass", "poison"]
   },
@@ -763,7 +763,7 @@
     "height": 12.0,
     "slug": "paras",
     "name": "Paras",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
     "id": 46,
     "type": ["bug", "grass"]
   },
@@ -775,7 +775,7 @@
     "height": 39.0,
     "slug": "parasect",
     "name": "Parasect",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
     "id": 47,
     "type": ["bug", "grass"]
   },
@@ -787,7 +787,7 @@
     "height": 39.0,
     "slug": "venonat",
     "name": "Venonat",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
     "id": 48,
     "type": ["bug", "poison"]
   },
@@ -799,7 +799,7 @@
     "height": 59.0,
     "slug": "venomoth",
     "name": "Venomoth",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
     "id": 49,
     "type": ["bug", "poison"]
   },
@@ -811,7 +811,7 @@
     "height": 8.0,
     "slug": "diglett",
     "name": "Diglett",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
     "id": 50,
     "type": ["ground", "steel"]
   },
@@ -823,7 +823,7 @@
     "height": 8.0,
     "slug": "diglett",
     "name": "Diglett",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
     "id": 50,
     "type": ["ground"]
   },
@@ -835,7 +835,7 @@
     "height": 28.0,
     "slug": "dugtrio",
     "name": "Dugtrio",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
     "id": 51,
     "type": ["ground", "steel"]
   },
@@ -847,7 +847,7 @@
     "height": 28.0,
     "slug": "dugtrio",
     "name": "Dugtrio",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
     "id": 51,
     "type": ["ground"]
   },
@@ -859,7 +859,7 @@
     "height": 1299.0,
     "slug": "meowth",
     "name": "Meowth",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
     "id": 52,
     "type": ["normal"]
   },
@@ -871,7 +871,7 @@
     "height": 16.0,
     "slug": "meowth",
     "name": "Meowth",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
     "id": 52,
     "type": ["steel"]
   },
@@ -883,7 +883,7 @@
     "height": 16.0,
     "slug": "meowth",
     "name": "Meowth",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
     "id": 52,
     "type": ["dark"]
   },
@@ -895,7 +895,7 @@
     "height": 16.0,
     "slug": "meowth",
     "name": "Meowth",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
     "id": 52,
     "type": ["normal"]
   },
@@ -907,7 +907,7 @@
     "height": 43.0,
     "slug": "persian",
     "name": "Persian",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
     "id": 53,
     "type": ["dark"]
   },
@@ -919,7 +919,7 @@
     "height": 39.0,
     "slug": "persian",
     "name": "Persian",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
     "id": 53,
     "type": ["normal"]
   },
@@ -931,7 +931,7 @@
     "height": 31.0,
     "slug": "psyduck",
     "name": "Psyduck",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
     "id": 54,
     "type": ["water"]
   },
@@ -943,7 +943,7 @@
     "height": 67.0,
     "slug": "golduck",
     "name": "Golduck",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
     "id": 55,
     "type": ["water"]
   },
@@ -955,7 +955,7 @@
     "height": 20.0,
     "slug": "mankey",
     "name": "Mankey",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
     "id": 56,
     "type": ["fighting"]
   },
@@ -967,7 +967,7 @@
     "height": 39.0,
     "slug": "primeape",
     "name": "Primeape",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
     "id": 57,
     "type": ["fighting"]
   },
@@ -979,7 +979,7 @@
     "height": 31.0,
     "slug": "growlithe",
     "name": "Growlithe",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
     "id": 58,
     "type": ["fire", "rock"]
   },
@@ -991,7 +991,7 @@
     "height": 28.0,
     "slug": "growlithe",
     "name": "Growlithe",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
     "id": 58,
     "type": ["fire"]
   },
@@ -1003,7 +1003,7 @@
     "height": 79.0,
     "slug": "arcanine",
     "name": "Arcanine",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
     "id": 59,
     "type": ["fire", "rock"]
   },
@@ -1015,7 +1015,7 @@
     "height": 75.0,
     "slug": "arcanine",
     "name": "Arcanine",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
     "id": 59,
     "type": ["fire"]
   },
@@ -1027,7 +1027,7 @@
     "height": 24.0,
     "slug": "poliwag",
     "name": "Poliwag",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
     "id": 60,
     "type": ["water"]
   },
@@ -1039,7 +1039,7 @@
     "height": 39.0,
     "slug": "poliwhirl",
     "name": "Poliwhirl",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
     "id": 61,
     "type": ["water"]
   },
@@ -1051,7 +1051,7 @@
     "height": 51.0,
     "slug": "poliwrath",
     "name": "Poliwrath",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
     "id": 62,
     "type": ["water", "fighting"]
   },
@@ -1063,7 +1063,7 @@
     "height": 35.0,
     "slug": "abra",
     "name": "Abra",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
     "id": 63,
     "type": ["psychic"]
   },
@@ -1075,7 +1075,7 @@
     "height": 51.0,
     "slug": "kadabra",
     "name": "Kadabra",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
     "id": 64,
     "type": ["psychic"]
   },
@@ -1087,7 +1087,7 @@
     "height": 47.0,
     "slug": "alakazam",
     "name": "Alakazam",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
     "id": 65,
     "type": ["psychic"]
   },
@@ -1099,7 +1099,7 @@
     "height": 59.0,
     "slug": "alakazam",
     "name": "Alakazam",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
     "id": 65,
     "type": ["psychic"]
   },
@@ -1111,7 +1111,7 @@
     "height": 31.0,
     "slug": "machop",
     "name": "Machop",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
     "id": 66,
     "type": ["fighting"]
   },
@@ -1123,7 +1123,7 @@
     "height": 59.0,
     "slug": "machoke",
     "name": "Machoke",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
     "id": 67,
     "type": ["fighting"]
   },
@@ -1135,7 +1135,7 @@
     "height": 984.0,
     "slug": "machamp",
     "name": "Machamp",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
     "id": 68,
     "type": ["fighting"]
   },
@@ -1147,7 +1147,7 @@
     "height": 63.0,
     "slug": "machamp",
     "name": "Machamp",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
     "id": 68,
     "type": ["fighting"]
   },
@@ -1159,7 +1159,7 @@
     "height": 28.0,
     "slug": "bellsprout",
     "name": "Bellsprout",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
     "id": 69,
     "type": ["grass", "poison"]
   },
@@ -1171,7 +1171,7 @@
     "height": 39.0,
     "slug": "weepinbell",
     "name": "Weepinbell",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
     "id": 70,
     "type": ["grass", "poison"]
   },
@@ -1183,7 +1183,7 @@
     "height": 67.0,
     "slug": "victreebel",
     "name": "Victreebel",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
     "id": 71,
     "type": ["grass", "poison"]
   },
@@ -1195,7 +1195,7 @@
     "height": 35.0,
     "slug": "tentacool",
     "name": "Tentacool",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
     "id": 72,
     "type": ["water", "poison"]
   },
@@ -1207,7 +1207,7 @@
     "height": 63.0,
     "slug": "tentacruel",
     "name": "Tentacruel",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
     "id": 73,
     "type": ["water", "poison"]
   },
@@ -1219,7 +1219,7 @@
     "height": 16.0,
     "slug": "geodude",
     "name": "Geodude",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
     "id": 74,
     "type": ["rock", "electric"]
   },
@@ -1231,7 +1231,7 @@
     "height": 16.0,
     "slug": "geodude",
     "name": "Geodude",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
     "id": 74,
     "type": ["rock", "ground"]
   },
@@ -1243,7 +1243,7 @@
     "height": 39.0,
     "slug": "graveler",
     "name": "Graveler",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
     "id": 75,
     "type": ["rock", "electric"]
   },
@@ -1255,7 +1255,7 @@
     "height": 39.0,
     "slug": "graveler",
     "name": "Graveler",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
     "id": 75,
     "type": ["rock", "ground"]
   },
@@ -1267,7 +1267,7 @@
     "height": 67.0,
     "slug": "golem",
     "name": "Golem",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
     "id": 76,
     "type": ["rock", "electric"]
   },
@@ -1279,7 +1279,7 @@
     "height": 55.0,
     "slug": "golem",
     "name": "Golem",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
     "id": 76,
     "type": ["rock", "ground"]
   },
@@ -1291,7 +1291,7 @@
     "height": 31.0,
     "slug": "ponyta",
     "name": "Ponyta",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
     "id": 77,
     "type": ["psychic"]
   },
@@ -1303,7 +1303,7 @@
     "height": 39.0,
     "slug": "ponyta",
     "name": "Ponyta",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
     "id": 77,
     "type": ["fire"]
   },
@@ -1315,7 +1315,7 @@
     "height": 67.0,
     "slug": "rapidash",
     "name": "Rapidash",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
     "id": 78,
     "type": ["psychic", "fairy"]
   },
@@ -1327,7 +1327,7 @@
     "height": 67.0,
     "slug": "rapidash",
     "name": "Rapidash",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
     "id": 78,
     "type": ["fire"]
   },
@@ -1339,7 +1339,7 @@
     "height": 47.0,
     "slug": "slowpoke",
     "name": "Slowpoke",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
     "id": 79,
     "type": ["psychic"]
   },
@@ -1351,7 +1351,7 @@
     "height": 47.0,
     "slug": "slowpoke",
     "name": "Slowpoke",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
     "id": 79,
     "type": ["water", "psychic"]
   },
@@ -1363,7 +1363,7 @@
     "height": 63.0,
     "slug": "slowbro",
     "name": "Slowbro",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
     "id": 80,
     "type": ["poison", "psychic"]
   },
@@ -1375,7 +1375,7 @@
     "height": 79.0,
     "slug": "slowbro",
     "name": "Slowbro",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
     "id": 80,
     "type": ["water", "psychic"]
   },
@@ -1387,7 +1387,7 @@
     "height": 63.0,
     "slug": "slowbro",
     "name": "Slowbro",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
     "id": 80,
     "type": ["water", "psychic"]
   },
@@ -1399,7 +1399,7 @@
     "height": 12.0,
     "slug": "magnemite",
     "name": "Magnemite",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
     "id": 81,
     "type": ["electric", "steel"]
   },
@@ -1411,7 +1411,7 @@
     "height": 39.0,
     "slug": "magneton",
     "name": "Magneton",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
     "id": 82,
     "type": ["electric", "steel"]
   },
@@ -1423,7 +1423,7 @@
     "height": 31.0,
     "slug": "farfetchd",
     "name": "Farfetch’d",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
     "id": 83,
     "type": ["fighting"]
   },
@@ -1435,7 +1435,7 @@
     "height": 31.0,
     "slug": "farfetchd",
     "name": "Farfetch’d",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
     "id": 83,
     "type": ["normal", "flying"]
   },
@@ -1447,7 +1447,7 @@
     "height": 55.0,
     "slug": "doduo",
     "name": "Doduo",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
     "id": 84,
     "type": ["normal", "flying"]
   },
@@ -1459,7 +1459,7 @@
     "height": 71.0,
     "slug": "dodrio",
     "name": "Dodrio",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
     "id": 85,
     "type": ["normal", "flying"]
   },
@@ -1471,7 +1471,7 @@
     "height": 43.0,
     "slug": "seel",
     "name": "Seel",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
     "id": 86,
     "type": ["water"]
   },
@@ -1483,7 +1483,7 @@
     "height": 67.0,
     "slug": "dewgong",
     "name": "Dewgong",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
     "id": 87,
     "type": ["water", "ice"]
   },
@@ -1495,7 +1495,7 @@
     "height": 28.0,
     "slug": "grimer",
     "name": "Grimer",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
     "id": 88,
     "type": ["poison", "dark"]
   },
@@ -1507,7 +1507,7 @@
     "height": 35.0,
     "slug": "grimer",
     "name": "Grimer",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
     "id": 88,
     "type": ["poison"]
   },
@@ -1519,7 +1519,7 @@
     "height": 39.0,
     "slug": "muk",
     "name": "Muk",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
     "id": 89,
     "type": ["poison", "dark"]
   },
@@ -1531,7 +1531,7 @@
     "height": 47.0,
     "slug": "muk",
     "name": "Muk",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
     "id": 89,
     "type": ["poison"]
   },
@@ -1543,7 +1543,7 @@
     "height": 12.0,
     "slug": "shellder",
     "name": "Shellder",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
     "id": 90,
     "type": ["water"]
   },
@@ -1555,7 +1555,7 @@
     "height": 59.0,
     "slug": "cloyster",
     "name": "Cloyster",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
     "id": 91,
     "type": ["water", "ice"]
   },
@@ -1567,7 +1567,7 @@
     "height": 51.0,
     "slug": "gastly",
     "name": "Gastly",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
     "id": 92,
     "type": ["ghost", "poison"]
   },
@@ -1579,7 +1579,7 @@
     "height": 63.0,
     "slug": "haunter",
     "name": "Haunter",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
     "id": 93,
     "type": ["ghost", "poison"]
   },
@@ -1591,7 +1591,7 @@
     "height": 787.0,
     "slug": "gengar",
     "name": "Gengar",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
     "id": 94,
     "type": ["ghost", "poison"]
   },
@@ -1603,7 +1603,7 @@
     "height": 55.0,
     "slug": "gengar",
     "name": "Gengar",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
     "id": 94,
     "type": ["ghost", "poison"]
   },
@@ -1615,7 +1615,7 @@
     "height": 59.0,
     "slug": "gengar",
     "name": "Gengar",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
     "id": 94,
     "type": ["ghost", "poison"]
   },
@@ -1627,7 +1627,7 @@
     "height": 346.0,
     "slug": "onix",
     "name": "Onix",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
     "id": 95,
     "type": ["rock", "ground"]
   },
@@ -1639,7 +1639,7 @@
     "height": 39.0,
     "slug": "drowzee",
     "name": "Drowzee",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
     "id": 96,
     "type": ["psychic"]
   },
@@ -1651,7 +1651,7 @@
     "height": 63.0,
     "slug": "hypno",
     "name": "Hypno",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
     "id": 97,
     "type": ["psychic"]
   },
@@ -1663,7 +1663,7 @@
     "height": 16.0,
     "slug": "krabby",
     "name": "Krabby",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
     "id": 98,
     "type": ["water"]
   },
@@ -1675,7 +1675,7 @@
     "height": 748.0,
     "slug": "kingler",
     "name": "Kingler",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
     "id": 99,
     "type": ["water"]
   },
@@ -1687,7 +1687,7 @@
     "height": 51.0,
     "slug": "kingler",
     "name": "Kingler",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
     "id": 99,
     "type": ["water"]
   },
@@ -1699,7 +1699,7 @@
     "height": 20.0,
     "slug": "voltorb",
     "name": "Voltorb",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
     "id": 100,
     "type": ["electric", "grass"]
   },
@@ -1711,7 +1711,7 @@
     "height": 20.0,
     "slug": "voltorb",
     "name": "Voltorb",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
     "id": 100,
     "type": ["electric"]
   },
@@ -1723,7 +1723,7 @@
     "height": 47.0,
     "slug": "electrode",
     "name": "Electrode",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
     "id": 101,
     "type": ["electric", "grass"]
   },
@@ -1735,7 +1735,7 @@
     "height": 47.0,
     "slug": "electrode",
     "name": "Electrode",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
     "id": 101,
     "type": ["electric"]
   },
@@ -1747,7 +1747,7 @@
     "height": 16.0,
     "slug": "exeggcute",
     "name": "Exeggcute",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/102.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
     "id": 102,
     "type": ["grass", "psychic"]
   },
@@ -1759,7 +1759,7 @@
     "height": 429.0,
     "slug": "exeggutor",
     "name": "Exeggutor",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
     "id": 103,
     "type": ["grass", "dragon"]
   },
@@ -1771,7 +1771,7 @@
     "height": 79.0,
     "slug": "exeggutor",
     "name": "Exeggutor",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
     "id": 103,
     "type": ["grass", "psychic"]
   },
@@ -1783,7 +1783,7 @@
     "height": 16.0,
     "slug": "cubone",
     "name": "Cubone",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
     "id": 104,
     "type": ["ground"]
   },
@@ -1795,7 +1795,7 @@
     "height": 39.0,
     "slug": "marowak",
     "name": "Marowak",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
     "id": 105,
     "type": ["fire", "ghost"]
   },
@@ -1807,7 +1807,7 @@
     "height": 39.0,
     "slug": "marowak",
     "name": "Marowak",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
     "id": 105,
     "type": ["ground"]
   },
@@ -1819,7 +1819,7 @@
     "height": 59.0,
     "slug": "hitmonlee",
     "name": "Hitmonlee",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/106.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
     "id": 106,
     "type": ["fighting"]
   },
@@ -1831,7 +1831,7 @@
     "height": 55.0,
     "slug": "hitmonchan",
     "name": "Hitmonchan",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/107.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
     "id": 107,
     "type": ["fighting"]
   },
@@ -1843,7 +1843,7 @@
     "height": 47.0,
     "slug": "lickitung",
     "name": "Lickitung",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/108.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
     "id": 108,
     "type": ["normal"]
   },
@@ -1855,7 +1855,7 @@
     "height": 24.0,
     "slug": "koffing",
     "name": "Koffing",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/109.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
     "id": 109,
     "type": ["poison"]
   },
@@ -1867,7 +1867,7 @@
     "height": 118.0,
     "slug": "weezing",
     "name": "Weezing",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
     "id": 110,
     "type": ["poison", "fairy"]
   },
@@ -1879,7 +1879,7 @@
     "height": 47.0,
     "slug": "weezing",
     "name": "Weezing",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
     "id": 110,
     "type": ["poison"]
   },
@@ -1891,7 +1891,7 @@
     "height": 39.0,
     "slug": "rhyhorn",
     "name": "Rhyhorn",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
     "id": 111,
     "type": ["ground", "rock"]
   },
@@ -1903,7 +1903,7 @@
     "height": 75.0,
     "slug": "rhydon",
     "name": "Rhydon",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/112.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
     "id": 112,
     "type": ["ground", "rock"]
   },
@@ -1915,7 +1915,7 @@
     "height": 43.0,
     "slug": "chansey",
     "name": "Chansey",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/113.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
     "id": 113,
     "type": ["normal"]
   },
@@ -1927,7 +1927,7 @@
     "height": 39.0,
     "slug": "tangela",
     "name": "Tangela",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/114.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
     "id": 114,
     "type": ["grass"]
   },
@@ -1939,7 +1939,7 @@
     "height": 87.0,
     "slug": "kangaskhan",
     "name": "Kangaskhan",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
     "id": 115,
     "type": ["normal"]
   },
@@ -1951,7 +1951,7 @@
     "height": 87.0,
     "slug": "kangaskhan",
     "name": "Kangaskhan",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
     "id": 115,
     "type": ["normal"]
   },
@@ -1963,7 +1963,7 @@
     "height": 16.0,
     "slug": "horsea",
     "name": "Horsea",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/116.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
     "id": 116,
     "type": ["water"]
   },
@@ -1975,7 +1975,7 @@
     "height": 47.0,
     "slug": "seadra",
     "name": "Seadra",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/117.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
     "id": 117,
     "type": ["water"]
   },
@@ -1987,7 +1987,7 @@
     "height": 24.0,
     "slug": "goldeen",
     "name": "Goldeen",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/118.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
     "id": 118,
     "type": ["water"]
   },
@@ -1999,7 +1999,7 @@
     "height": 51.0,
     "slug": "seaking",
     "name": "Seaking",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/119.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
     "id": 119,
     "type": ["water"]
   },
@@ -2011,7 +2011,7 @@
     "height": 31.0,
     "slug": "staryu",
     "name": "Staryu",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/120.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
     "id": 120,
     "type": ["water"]
   },
@@ -2023,7 +2023,7 @@
     "height": 43.0,
     "slug": "starmie",
     "name": "Starmie",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
     "id": 121,
     "type": ["water", "psychic"]
   },
@@ -2035,7 +2035,7 @@
     "height": 55.0,
     "slug": "mr-mime",
     "name": "Mr. Mime",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
     "id": 122,
     "type": ["ice", "psychic"]
   },
@@ -2047,7 +2047,7 @@
     "height": 51.0,
     "slug": "mr-mime",
     "name": "Mr. Mime",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
     "id": 122,
     "type": ["psychic", "fairy"]
   },
@@ -2059,7 +2059,7 @@
     "height": 59.0,
     "slug": "scyther",
     "name": "Scyther",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
     "id": 123,
     "type": ["bug", "flying"]
   },
@@ -2071,7 +2071,7 @@
     "height": 55.0,
     "slug": "jynx",
     "name": "Jynx",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/124.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
     "id": 124,
     "type": ["ice", "psychic"]
   },
@@ -2083,7 +2083,7 @@
     "height": 43.0,
     "slug": "electabuzz",
     "name": "Electabuzz",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
     "id": 125,
     "type": ["electric"]
   },
@@ -2095,7 +2095,7 @@
     "height": 51.0,
     "slug": "magmar",
     "name": "Magmar",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/126.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
     "id": 126,
     "type": ["fire"]
   },
@@ -2107,7 +2107,7 @@
     "height": 67.0,
     "slug": "pinsir",
     "name": "Pinsir",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
     "id": 127,
     "type": ["bug", "flying"]
   },
@@ -2119,7 +2119,7 @@
     "height": 59.0,
     "slug": "pinsir",
     "name": "Pinsir",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
     "id": 127,
     "type": ["bug"]
   },
@@ -2131,7 +2131,7 @@
     "height": 55.0,
     "slug": "tauros",
     "name": "Tauros",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
     "id": 128,
     "type": ["fighting", "water"]
   },
@@ -2143,7 +2143,7 @@
     "height": 55.0,
     "slug": "tauros",
     "name": "Tauros",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
     "id": 128,
     "type": ["fighting", "fire"]
   },
@@ -2155,7 +2155,7 @@
     "height": 55.0,
     "slug": "tauros",
     "name": "Tauros",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
     "id": 128,
     "type": ["fighting"]
   },
@@ -2167,7 +2167,7 @@
     "height": 55.0,
     "slug": "tauros",
     "name": "Tauros",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
     "id": 128,
     "type": ["normal"]
   },
@@ -2179,7 +2179,7 @@
     "height": 35.0,
     "slug": "magikarp",
     "name": "Magikarp",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
     "id": 129,
     "type": ["water"]
   },
@@ -2191,7 +2191,7 @@
     "height": 256.0,
     "slug": "gyarados",
     "name": "Gyarados",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
     "id": 130,
     "type": ["water", "dark"]
   },
@@ -2203,7 +2203,7 @@
     "height": 256.0,
     "slug": "gyarados",
     "name": "Gyarados",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
     "id": 130,
     "type": ["water", "flying"]
   },
@@ -2215,7 +2215,7 @@
     "height": 945.0,
     "slug": "lapras",
     "name": "Lapras",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
     "id": 131,
     "type": ["water", "ice"]
   },
@@ -2227,7 +2227,7 @@
     "height": 98.0,
     "slug": "lapras",
     "name": "Lapras",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
     "id": 131,
     "type": ["water", "ice"]
   },
@@ -2239,7 +2239,7 @@
     "height": 12.0,
     "slug": "ditto",
     "name": "Ditto",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/132.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
     "id": 132,
     "type": ["normal"]
   },
@@ -2251,7 +2251,7 @@
     "height": 709.0,
     "slug": "eevee",
     "name": "Eevee",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
     "id": 133,
     "type": ["normal"]
   },
@@ -2263,7 +2263,7 @@
     "height": 12.0,
     "slug": "eevee",
     "name": "Eevee",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
     "id": 133,
     "type": ["normal"]
   },
@@ -2275,7 +2275,7 @@
     "height": 39.0,
     "slug": "vaporeon",
     "name": "Vaporeon",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
     "id": 134,
     "type": ["water"]
   },
@@ -2287,7 +2287,7 @@
     "height": 31.0,
     "slug": "jolteon",
     "name": "Jolteon",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
     "id": 135,
     "type": ["electric"]
   },
@@ -2299,7 +2299,7 @@
     "height": 35.0,
     "slug": "flareon",
     "name": "Flareon",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
     "id": 136,
     "type": ["fire"]
   },
@@ -2311,7 +2311,7 @@
     "height": 31.0,
     "slug": "porygon",
     "name": "Porygon",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/137.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
     "id": 137,
     "type": ["normal"]
   },
@@ -2323,7 +2323,7 @@
     "height": 16.0,
     "slug": "omanyte",
     "name": "Omanyte",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/138.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
     "id": 138,
     "type": ["rock", "water"]
   },
@@ -2335,7 +2335,7 @@
     "height": 39.0,
     "slug": "omastar",
     "name": "Omastar",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
     "id": 139,
     "type": ["rock", "water"]
   },
@@ -2347,7 +2347,7 @@
     "height": 20.0,
     "slug": "kabuto",
     "name": "Kabuto",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/140.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
     "id": 140,
     "type": ["rock", "water"]
   },
@@ -2359,7 +2359,7 @@
     "height": 51.0,
     "slug": "kabutops",
     "name": "Kabutops",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/141.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
     "id": 141,
     "type": ["rock", "water"]
   },
@@ -2371,7 +2371,7 @@
     "height": 83.0,
     "slug": "aerodactyl",
     "name": "Aerodactyl",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
     "id": 142,
     "type": ["rock", "flying"]
   },
@@ -2383,7 +2383,7 @@
     "height": 71.0,
     "slug": "aerodactyl",
     "name": "Aerodactyl",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
     "id": 142,
     "type": ["rock", "flying"]
   },
@@ -2395,7 +2395,7 @@
     "height": 1378.0,
     "slug": "snorlax",
     "name": "Snorlax",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
     "id": 143,
     "type": ["normal"]
   },
@@ -2407,7 +2407,7 @@
     "height": 83.0,
     "slug": "snorlax",
     "name": "Snorlax",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
     "id": 143,
     "type": ["normal"]
   },
@@ -2419,7 +2419,7 @@
     "height": 67.0,
     "slug": "articuno",
     "name": "Articuno",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
     "id": 144,
     "type": ["psychic", "flying"]
   },
@@ -2431,7 +2431,7 @@
     "height": 67.0,
     "slug": "articuno",
     "name": "Articuno",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
     "id": 144,
     "type": ["ice", "flying"]
   },
@@ -2443,7 +2443,7 @@
     "height": 63.0,
     "slug": "zapdos",
     "name": "Zapdos",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
     "id": 145,
     "type": ["fighting", "flying"]
   },
@@ -2455,7 +2455,7 @@
     "height": 63.0,
     "slug": "zapdos",
     "name": "Zapdos",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
     "id": 145,
     "type": ["electric", "flying"]
   },
@@ -2467,7 +2467,7 @@
     "height": 79.0,
     "slug": "moltres",
     "name": "Moltres",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
     "id": 146,
     "type": ["dark", "flying"]
   },
@@ -2479,7 +2479,7 @@
     "height": 79.0,
     "slug": "moltres",
     "name": "Moltres",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
     "id": 146,
     "type": ["fire", "flying"]
   },
@@ -2491,7 +2491,7 @@
     "height": 71.0,
     "slug": "dratini",
     "name": "Dratini",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/147.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
     "id": 147,
     "type": ["dragon"]
   },
@@ -2503,7 +2503,7 @@
     "height": 157.0,
     "slug": "dragonair",
     "name": "Dragonair",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
     "id": 148,
     "type": ["dragon"]
   },
@@ -2515,7 +2515,7 @@
     "height": 87.0,
     "slug": "dragonite",
     "name": "Dragonite",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
     "id": 149,
     "type": ["dragon", "flying"]
   },
@@ -2527,7 +2527,7 @@
     "height": 59.0,
     "slug": "mewtwo",
     "name": "Mewtwo",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
     "id": 150,
     "type": ["psychic"]
   },
@@ -2539,7 +2539,7 @@
     "height": 91.0,
     "slug": "mewtwo",
     "name": "Mewtwo",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
     "id": 150,
     "type": ["psychic", "fighting"]
   },
@@ -2551,7 +2551,7 @@
     "height": 79.0,
     "slug": "mewtwo",
     "name": "Mewtwo",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
     "id": 150,
     "type": ["psychic"]
   },
@@ -2563,7 +2563,7 @@
     "height": 16.0,
     "slug": "mew",
     "name": "Mew",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
     "id": 151,
     "type": ["psychic"]
   }
