@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Limber",
+    "Reckless"
+  ],
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "name": "Hitmonlee",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/106.png",
+  "id": 106,
+  "type": [
+    "fighting"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Hydration",
+    "Thick Fat"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Seel",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/086.png",
+  "id": 86,
+  "type": [
+    "water"
+  ]
+}

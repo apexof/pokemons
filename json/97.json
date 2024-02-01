@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Forewarn",
+    "Insomnia"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "name": "Hypno",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/097.png",
+  "id": 97,
+  "type": [
+    "psychic"
+  ]
+}

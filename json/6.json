@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "weakness": [
+    "Water",
+    "Electric",
+    "Rock"
+  ],
+  "name": "Charizard",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/006.png",
+  "id": 6,
+  "type": [
+    "fire",
+    "flying"
+  ]
+}

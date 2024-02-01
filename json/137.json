@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Download",
+    "Trace"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Porygon",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/137.png",
+  "id": 137,
+  "type": [
+    "normal"
+  ]
+}

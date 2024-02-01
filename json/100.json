@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Soundproof",
+    "Static"
+  ],
+  "weakness": [
+    "Ground"
+  ],
+  "name": "Voltorb",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/100.png",
+  "id": 100,
+  "type": [
+    "electric"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "abilities": [
-    "Overgrow"
+    "Chlorophyll"
   ],
   "weakness": [
     "Fire",
@@ -8,9 +8,9 @@
     "Flying",
     "Ice"
   ],
-  "name": "Bulbasaur",
-  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/001.png",
-  "id": 1,
+  "name": "Oddish",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/043.png",
+  "id": 43,
   "type": [
     "grass",
     "poison"

@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Shed Skin"
+  ],
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Metapod",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/011.png",
+  "id": 11,
+  "type": [
+    "bug"
+  ]
+}

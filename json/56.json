@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Anger Point",
+    "Vital Spirit"
+  ],
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "name": "Mankey",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/056.png",
+  "id": 56,
+  "type": [
+    "fighting"
+  ]
+}

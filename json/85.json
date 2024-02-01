@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Early Bird",
+    "Run Away"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Dodrio",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/085.png",
+  "id": 85,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

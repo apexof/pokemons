@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Ice",
+    "Grass",
+    "Ground"
+  ],
+  "name": "Golem",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/076.png",
+  "id": 76,
+  "type": [
+    "rock",
+    "ground"
+  ]
+}

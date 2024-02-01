@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Oblivious",
+    "Own Tempo"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Lickitung",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/108.png",
+  "id": 108,
+  "type": [
+    "normal"
+  ]
+}

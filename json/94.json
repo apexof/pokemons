@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Cursed Body"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Gengar",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/094.png",
+  "id": 94,
+  "type": [
+    "ghost",
+    "poison"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Shield Dust"
+  ],
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Weedle",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/013.png",
+  "id": 13,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

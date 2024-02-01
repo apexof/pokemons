@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Chlorophyll"
+  ],
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Ice",
+    "Dark",
+    "Poison",
+    "Bug"
+  ],
+  "name": "Exeggcute",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/102.png",
+  "id": 102,
+  "type": [
+    "grass",
+    "psychic"
+  ]
+}

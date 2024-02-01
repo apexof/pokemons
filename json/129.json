@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Swift Swim"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Magikarp",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/129.png",
+  "id": 129,
+  "type": [
+    "water"
+  ]
+}

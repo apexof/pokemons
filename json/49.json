@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Shield Dust",
+    "Tinted Lens"
+  ],
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Venomoth",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/049.png",
+  "id": 49,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

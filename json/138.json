@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Shell Armor",
+    "Swift Swim"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Ground"
+  ],
+  "name": "Omanyte",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/138.png",
+  "id": 138,
+  "type": [
+    "rock",
+    "water"
+  ]
+}

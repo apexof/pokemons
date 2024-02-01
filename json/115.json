@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Early Bird",
+    "Scrappy"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Kangaskhan",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/115.png",
+  "id": 115,
+  "type": [
+    "normal"
+  ]
+}

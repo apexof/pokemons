@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head"
+  ],
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "name": "Marowak",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/105.png",
+  "id": 105,
+  "type": [
+    "ground"
+  ]
+}

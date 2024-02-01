@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Clear Body",
+    "Liquid Ooze"
+  ],
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ground"
+  ],
+  "name": "Tentacool",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/072.png",
+  "id": 72,
+  "type": [
+    "water",
+    "poison"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "abilities": [
+    "Oblivious",
+    "Own Tempo"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Grass",
+    "Electric",
+    "Bug"
+  ],
+  "name": "Slowpoke",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/079.png",
+  "id": 79,
+  "type": [
+    "water",
+    "psychic"
+  ]
+}

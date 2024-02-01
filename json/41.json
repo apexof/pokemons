@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Inner Focus"
+  ],
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Zubat",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/041.png",
+  "id": 41,
+  "type": [
+    "poison",
+    "flying"
+  ]
+}

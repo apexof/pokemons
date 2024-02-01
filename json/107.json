@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Iron Fist",
+    "Keen Eye"
+  ],
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "name": "Hitmonchan",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/107.png",
+  "id": 107,
+  "type": [
+    "fighting"
+  ]
+}

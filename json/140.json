@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Battle Armor",
+    "Swift Swim"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Ground"
+  ],
+  "name": "Kabuto",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/140.png",
+  "id": 140,
+  "type": [
+    "rock",
+    "water"
+  ]
+}

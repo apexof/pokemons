@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Flame Body"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Magmar",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/126.png",
+  "id": 126,
+  "type": [
+    "fire"
+  ]
+}

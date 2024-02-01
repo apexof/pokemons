@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Inner Focus",
+    "Keen Eye"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Farfetch’d",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/083.png",
+  "id": 83,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

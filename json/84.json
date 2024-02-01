@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Early Bird",
+    "Run Away"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Doduo",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/084.png",
+  "id": 84,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

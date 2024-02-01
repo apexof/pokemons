@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Inner Focus",
+    "Synchronize"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "name": "Abra",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/063.png",
+  "id": 63,
+  "type": [
+    "psychic"
+  ]
+}

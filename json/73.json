@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Clear Body",
+    "Liquid Ooze"
+  ],
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ground"
+  ],
+  "name": "Tentacruel",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/073.png",
+  "id": 73,
+  "type": [
+    "water",
+    "poison"
+  ]
+}

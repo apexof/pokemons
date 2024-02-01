@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Guts",
+    "Run Away"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Rattata",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/019.png",
+  "id": 19,
+  "type": [
+    "normal"
+  ]
+}

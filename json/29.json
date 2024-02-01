@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Poison Point",
+    "Rivalry"
+  ],
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Nidoran♀",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/029.png",
+  "id": 29,
+  "type": [
+    "poison"
+  ]
+}

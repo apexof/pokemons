@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Charmeleon",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/005.png",
+  "id": 5,
+  "type": [
+    "fire"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Flash Fire",
+    "Run Away"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Rapidash",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/078.png",
+  "id": 78,
+  "type": [
+    "fire"
+  ]
+}

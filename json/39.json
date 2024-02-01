@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Competitive",
+    "Cute Charm"
+  ],
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "name": "Jigglypuff",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/039.png",
+  "id": 39,
+  "type": [
+    "normal",
+    "fairy"
+  ]
+}

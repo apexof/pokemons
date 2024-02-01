@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Ice",
+    "Grass",
+    "Ground"
+  ],
+  "name": "Geodude",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/074.png",
+  "id": 74,
+  "type": [
+    "rock",
+    "ground"
+  ]
+}

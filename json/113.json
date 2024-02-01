@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Natural Cure",
+    "Serene Grace"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Chansey",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/113.png",
+  "id": 113,
+  "type": [
+    "normal"
+  ]
+}

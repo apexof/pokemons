@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Keen Eye"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Spearow",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/021.png",
+  "id": 21,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

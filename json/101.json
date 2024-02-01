@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Soundproof",
+    "Static"
+  ],
+  "weakness": [
+    "Ground"
+  ],
+  "name": "Electrode",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/101.png",
+  "id": 101,
+  "type": [
+    "electric"
+  ]
+}

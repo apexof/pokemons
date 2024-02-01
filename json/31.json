@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Poison Point",
+    "Rivalry"
+  ],
+  "weakness": [
+    "Water",
+    "Psychic",
+    "Ice",
+    "Ground"
+  ],
+  "name": "Nidoqueen",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/031.png",
+  "id": 31,
+  "type": [
+    "poison",
+    "ground"
+  ]
+}

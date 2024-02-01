@@ -1,6 +1,6 @@
 {
   "abilities": [
-    "Overgrow"
+    "Chlorophyll"
   ],
   "weakness": [
     "Fire",
@@ -8,9 +8,9 @@
     "Flying",
     "Ice"
   ],
-  "name": "Bulbasaur",
-  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/001.png",
-  "id": 1,
+  "name": "Weepinbell",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/070.png",
+  "id": 70,
   "type": [
     "grass",
     "poison"

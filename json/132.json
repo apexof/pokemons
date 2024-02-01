@@ -1,0 +1,14 @@
+{
+  "abilities": [
+    "Limber"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Ditto",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/132.png",
+  "id": 132,
+  "type": [
+    "normal"
+  ]
+}

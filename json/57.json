@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Anger Point",
+    "Vital Spirit"
+  ],
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "name": "Primeape",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/057.png",
+  "id": 57,
+  "type": [
+    "fighting"
+  ]
+}

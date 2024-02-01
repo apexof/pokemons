@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Pidgeotto",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/017.png",
+  "id": 17,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

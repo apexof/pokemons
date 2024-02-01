@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Hydration",
+    "Thick Fat"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Rock"
+  ],
+  "name": "Dewgong",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/087.png",
+  "id": 87,
+  "type": [
+    "water",
+    "ice"
+  ]
+}

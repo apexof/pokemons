@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head"
+  ],
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "name": "Cubone",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/104.png",
+  "id": 104,
+  "type": [
+    "ground"
+  ]
+}

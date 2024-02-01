@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Squirtle",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/007.png",
+  "id": 7,
+  "type": [
+    "water"
+  ]
+}

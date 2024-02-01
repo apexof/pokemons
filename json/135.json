@@ -1,0 +1,14 @@
+{
+  "abilities": [
+    "Volt Absorb"
+  ],
+  "weakness": [
+    "Ground"
+  ],
+  "name": "Jolteon",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/135.png",
+  "id": 135,
+  "type": [
+    "electric"
+  ]
+}

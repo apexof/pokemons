@@ -8,9 +8,9 @@
     "Flying",
     "Ice"
   ],
-  "name": "Bulbasaur",
-  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/001.png",
-  "id": 1,
+  "name": "Ivysaur",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/002.png",
+  "id": 2,
   "type": [
     "grass",
     "poison"

@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Flash Fire",
+    "Intimidate"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Arcanine",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/059.png",
+  "id": 59,
+  "type": [
+    "fire"
+  ]
+}

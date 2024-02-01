@@ -1,0 +1,14 @@
+{
+  "abilities": [
+    "Static"
+  ],
+  "weakness": [
+    "Ground"
+  ],
+  "name": "Raichu",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/026.png",
+  "id": 26,
+  "type": [
+    "electric"
+  ]
+}

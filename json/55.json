@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Cloud Nine",
+    "Damp"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Golduck",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/055.png",
+  "id": 55,
+  "type": [
+    "water"
+  ]
+}

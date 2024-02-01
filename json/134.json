@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Water Absorb"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Vaporeon",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/134.png",
+  "id": 134,
+  "type": [
+    "water"
+  ]
+}

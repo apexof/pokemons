@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Poison Point",
+    "Sniper"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Seadra",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/117.png",
+  "id": 117,
+  "type": [
+    "water"
+  ]
+}

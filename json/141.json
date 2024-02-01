@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Battle Armor",
+    "Swift Swim"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Ground"
+  ],
+  "name": "Kabutops",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/141.png",
+  "id": 141,
+  "type": [
+    "rock",
+    "water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Blastoise",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/009.png",
+  "id": 9,
+  "type": [
+    "water"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Keen Eye"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Fearow",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/022.png",
+  "id": 22,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

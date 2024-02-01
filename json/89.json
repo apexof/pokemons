@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Stench",
+    "Sticky Hold"
+  ],
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Muk",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/089.png",
+  "id": 89,
+  "type": [
+    "poison"
+  ]
+}

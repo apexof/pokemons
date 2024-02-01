@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Chlorophyll",
+    "Leaf Guard"
+  ],
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "name": "Tangela",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/114.png",
+  "id": 114,
+  "type": [
+    "grass"
+  ]
+}

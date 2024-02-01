@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Hyper Cutter",
+    "Mold Breaker"
+  ],
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Pinsir",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/127.png",
+  "id": 127,
+  "type": [
+    "bug"
+  ]
+}

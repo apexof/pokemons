@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Shield Dust"
+  ],
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Caterpie",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/010.png",
+  "id": 10,
+  "type": [
+    "bug"
+  ]
+}

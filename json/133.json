@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Adaptability",
+    "Run Away"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Eevee",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/133.png",
+  "id": 133,
+  "type": [
+    "normal"
+  ]
+}

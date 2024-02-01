@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Chlorophyll"
+  ],
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Ice",
+    "Dark",
+    "Poison",
+    "Bug"
+  ],
+  "name": "Exeggutor",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/103.png",
+  "id": 103,
+  "type": [
+    "grass",
+    "psychic"
+  ]
+}

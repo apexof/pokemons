@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "weakness": [
+    "Ice",
+    "Rock"
+  ],
+  "name": "Zapdos",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/145.png",
+  "id": 145,
+  "type": [
+    "electric",
+    "flying"
+  ]
+}

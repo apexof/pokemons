@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet"
+  ],
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Pidgey",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/016.png",
+  "id": 16,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

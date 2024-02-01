@@ -1,0 +1,20 @@
+{
+  "abilities": [
+    "Illuminate",
+    "Natural Cure"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Grass",
+    "Electric",
+    "Bug"
+  ],
+  "name": "Starmie",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/121.png",
+  "id": 121,
+  "type": [
+    "water",
+    "psychic"
+  ]
+}

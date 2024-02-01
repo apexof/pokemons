@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Forewarn",
+    "Oblivious"
+  ],
+  "weakness": [
+    "Steel",
+    "Ghost",
+    "Fire",
+    "Dark",
+    "Rock",
+    "Bug"
+  ],
+  "name": "Jynx",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/124.png",
+  "id": 124,
+  "type": [
+    "ice",
+    "psychic"
+  ]
+}

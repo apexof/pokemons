@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Inner Focus"
+  ],
+  "weakness": [
+    "Fairy",
+    "Dragon",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Dragonite",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/149.png",
+  "id": 149,
+  "type": [
+    "dragon",
+    "flying"
+  ]
+}

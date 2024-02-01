@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Immunity",
+    "Thick Fat"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Snorlax",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/143.png",
+  "id": 143,
+  "type": [
+    "normal"
+  ]
+}

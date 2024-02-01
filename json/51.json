@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Arena Trap",
+    "Sand Veil"
+  ],
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "name": "Dugtrio",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/051.png",
+  "id": 51,
+  "type": [
+    "ground"
+  ]
+}

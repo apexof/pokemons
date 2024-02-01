@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Swarm"
+  ],
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Beedrill",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/015.png",
+  "id": 15,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

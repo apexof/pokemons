@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Haunter",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/093.png",
+  "id": 93,
+  "type": [
+    "ghost",
+    "poison"
+  ]
+}

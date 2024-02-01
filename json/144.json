@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "weakness": [
+    "Steel",
+    "Fire",
+    "Electric",
+    "Rock"
+  ],
+  "name": "Articuno",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/144.png",
+  "id": 144,
+  "type": [
+    "ice",
+    "flying"
+  ]
+}

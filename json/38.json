@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Flash Fire"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Ninetales",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/038.png",
+  "id": 38,
+  "type": [
+    "fire"
+  ]
+}

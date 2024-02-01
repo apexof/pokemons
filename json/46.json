@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Dry Skin",
+    "Effect Spore"
+  ],
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Rock",
+    "Bug"
+  ],
+  "name": "Paras",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/046.png",
+  "id": 46,
+  "type": [
+    "bug",
+    "grass"
+  ]
+}

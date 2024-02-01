@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Limber",
+    "Technician"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Persian",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/053.png",
+  "id": 53,
+  "type": [
+    "normal"
+  ]
+}

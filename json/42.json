@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Inner Focus"
+  ],
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Golbat",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/042.png",
+  "id": 42,
+  "type": [
+    "poison",
+    "flying"
+  ]
+}

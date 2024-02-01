@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Cloud Nine",
+    "Damp"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Psyduck",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/054.png",
+  "id": 54,
+  "type": [
+    "water"
+  ]
+}

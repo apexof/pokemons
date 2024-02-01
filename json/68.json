@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Guts",
+    "No Guard"
+  ],
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "name": "Machamp",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/068.png",
+  "id": 68,
+  "type": [
+    "fighting"
+  ]
+}

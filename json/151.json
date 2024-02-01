@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Synchronize"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "name": "Mew",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/151.png",
+  "id": 151,
+  "type": [
+    "psychic"
+  ]
+}

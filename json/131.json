@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Shell Armor",
+    "Water Absorb"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Rock"
+  ],
+  "name": "Lapras",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/131.png",
+  "id": 131,
+  "type": [
+    "water",
+    "ice"
+  ]
+}

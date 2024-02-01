@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Hyper Cutter",
+    "Shell Armor"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Kingler",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/099.png",
+  "id": 99,
+  "type": [
+    "water"
+  ]
+}

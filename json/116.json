@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Sniper",
+    "Swift Swim"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Horsea",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/116.png",
+  "id": 116,
+  "type": [
+    "water"
+  ]
+}

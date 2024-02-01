@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Swift Swim",
+    "Water Veil"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Seaking",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/119.png",
+  "id": 119,
+  "type": [
+    "water"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Levitate",
+    "Neutralizing Gas"
+  ],
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Weezing",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/110.png",
+  "id": 110,
+  "type": [
+    "poison"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Sand Veil"
+  ],
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "name": "Sandslash",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/028.png",
+  "id": 28,
+  "type": [
+    "ground"
+  ]
+}

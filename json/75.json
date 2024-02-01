@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Ice",
+    "Grass",
+    "Ground"
+  ],
+  "name": "Graveler",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/075.png",
+  "id": 75,
+  "type": [
+    "rock",
+    "ground"
+  ]
+}

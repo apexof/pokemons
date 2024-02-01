@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Intimidate",
+    "Shed Skin"
+  ],
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Ekans",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/023.png",
+  "id": 23,
+  "type": [
+    "poison"
+  ]
+}

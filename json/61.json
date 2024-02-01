@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Damp",
+    "Water Absorb"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Poliwhirl",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/061.png",
+  "id": 61,
+  "type": [
+    "water"
+  ]
+}

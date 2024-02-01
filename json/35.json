@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Cute Charm",
+    "Magic Guard"
+  ],
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "name": "Clefairy",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/035.png",
+  "id": 35,
+  "type": [
+    "fairy"
+  ]
+}

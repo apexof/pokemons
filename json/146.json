@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "weakness": [
+    "Water",
+    "Electric",
+    "Rock"
+  ],
+  "name": "Moltres",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/146.png",
+  "id": 146,
+  "type": [
+    "fire",
+    "flying"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Inner Focus",
+    "Synchronize"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "name": "Kadabra",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/064.png",
+  "id": 64,
+  "type": [
+    "psychic"
+  ]
+}

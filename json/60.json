@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Damp",
+    "Water Absorb"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Poliwag",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/060.png",
+  "id": 60,
+  "type": [
+    "water"
+  ]
+}

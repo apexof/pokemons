@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Compound Eyes"
+  ],
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "name": "Butterfree",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/012.png",
+  "id": 12,
+  "type": [
+    "bug",
+    "flying"
+  ]
+}

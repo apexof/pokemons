@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Intimidate",
+    "Shed Skin"
+  ],
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Arbok",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/024.png",
+  "id": 24,
+  "type": [
+    "poison"
+  ]
+}

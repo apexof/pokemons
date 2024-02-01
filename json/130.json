@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Intimidate"
+  ],
+  "weakness": [
+    "Electric",
+    "Rock"
+  ],
+  "name": "Gyarados",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/130.png",
+  "id": 130,
+  "type": [
+    "water",
+    "flying"
+  ]
+}

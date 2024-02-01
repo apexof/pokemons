@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Shell Armor",
+    "Skill Link"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Rock"
+  ],
+  "name": "Cloyster",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/091.png",
+  "id": 91,
+  "type": [
+    "water",
+    "ice"
+  ]
+}

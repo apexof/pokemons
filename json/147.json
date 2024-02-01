@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Shed Skin"
+  ],
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "name": "Dratini",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/147.png",
+  "id": 147,
+  "type": [
+    "dragon"
+  ]
+}

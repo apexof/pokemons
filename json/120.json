@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Illuminate",
+    "Natural Cure"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Staryu",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/120.png",
+  "id": 120,
+  "type": [
+    "water"
+  ]
+}

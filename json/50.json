@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Arena Trap",
+    "Sand Veil"
+  ],
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "name": "Diglett",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/050.png",
+  "id": 50,
+  "type": [
+    "ground"
+  ]
+}

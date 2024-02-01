@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Pickup",
+    "Technician"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Meowth",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/052.png",
+  "id": 52,
+  "type": [
+    "normal"
+  ]
+}

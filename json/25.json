@@ -1,0 +1,14 @@
+{
+  "abilities": [
+    "Static"
+  ],
+  "weakness": [
+    "Ground"
+  ],
+  "name": "Pikachu",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/025.png",
+  "id": 25,
+  "type": [
+    "electric"
+  ]
+}

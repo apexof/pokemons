@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Levitate",
+    "Neutralizing Gas"
+  ],
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Koffing",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/109.png",
+  "id": 109,
+  "type": [
+    "poison"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Psychic",
+    "Ground"
+  ],
+  "name": "Gastly",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/092.png",
+  "id": 92,
+  "type": [
+    "ghost",
+    "poison"
+  ]
+}

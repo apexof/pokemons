@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Flash Fire",
+    "Run Away"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Ponyta",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/077.png",
+  "id": 77,
+  "type": [
+    "fire"
+  ]
+}

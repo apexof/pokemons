@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Wartortle",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/008.png",
+  "id": 8,
+  "type": [
+    "water"
+  ]
+}

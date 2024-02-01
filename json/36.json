@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Cute Charm",
+    "Magic Guard"
+  ],
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "name": "Clefable",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/036.png",
+  "id": 36,
+  "type": [
+    "fairy"
+  ]
+}

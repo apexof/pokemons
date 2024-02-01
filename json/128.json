@@ -1,0 +1,15 @@
+{
+  "abilities": [
+    "Anger Point",
+    "Intimidate"
+  ],
+  "weakness": [
+    "Fighting"
+  ],
+  "name": "Tauros",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/128.png",
+  "id": 128,
+  "type": [
+    "normal"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Flash Fire",
+    "Intimidate"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Growlithe",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/058.png",
+  "id": 58,
+  "type": [
+    "fire"
+  ]
+}

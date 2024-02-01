@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Hyper Cutter",
+    "Shell Armor"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Krabby",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/098.png",
+  "id": 98,
+  "type": [
+    "water"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens"
+  ],
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Venonat",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/048.png",
+  "id": 48,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

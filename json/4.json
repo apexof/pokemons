@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "name": "Charmander",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/004.png",
+  "id": 4,
+  "type": [
+    "fire"
+  ]
+}

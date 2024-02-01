@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Shed Skin"
+  ],
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "name": "Kakuna",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/014.png",
+  "id": 14,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

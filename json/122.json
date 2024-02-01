@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Filter",
+    "Soundproof"
+  ],
+  "weakness": [
+    "Ghost",
+    "Steel",
+    "Poison"
+  ],
+  "name": "Mr. Mime",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/122.png",
+  "id": 122,
+  "type": [
+    "psychic",
+    "fairy"
+  ]
+}

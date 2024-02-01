@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Inner Focus",
+    "Synchronize"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "name": "Alakazam",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/065.png",
+  "id": 65,
+  "type": [
+    "psychic"
+  ]
+}

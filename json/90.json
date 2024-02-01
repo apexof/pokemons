@@ -1,0 +1,16 @@
+{
+  "abilities": [
+    "Shell Armor",
+    "Skill Link"
+  ],
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "name": "Shellder",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/090.png",
+  "id": 90,
+  "type": [
+    "water"
+  ]
+}

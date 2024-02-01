@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    "Poison Point",
+    "Rivalry"
+  ],
+  "weakness": [
+    "Water",
+    "Psychic",
+    "Ice",
+    "Ground"
+  ],
+  "name": "Nidoking",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/034.png",
+  "id": 34,
+  "type": [
+    "poison",
+    "ground"
+  ]
+}

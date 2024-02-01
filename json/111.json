@@ -1,0 +1,21 @@
+{
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head"
+  ],
+  "weakness": [
+    "Steel",
+    "Ice",
+    "Water",
+    "Fighting",
+    "Grass",
+    "Ground"
+  ],
+  "name": "Rhyhorn",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/111.png",
+  "id": 111,
+  "type": [
+    "ground",
+    "rock"
+  ]
+}

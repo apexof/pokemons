@@ -1,0 +1,18 @@
+{
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy"
+  ],
+  "weakness": [
+    "Fire",
+    "Fighting",
+    "Ground"
+  ],
+  "name": "Magneton",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/082.png",
+  "id": 82,
+  "type": [
+    "electric",
+    "steel"
+  ]
+}

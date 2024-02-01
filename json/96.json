@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    "Forewarn",
+    "Insomnia"
+  ],
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "name": "Drowzee",
+  "image": "https://raw.githubusercontent.com/apexof/pokemons/main/images/096.png",
+  "id": 96,
+  "type": [
+    "psychic"
+  ]
+}
